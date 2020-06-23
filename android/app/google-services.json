@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1001513419112",
+    "firebase_url": "https://projeto-e9e88.firebaseio.com",
+    "project_id": "projeto-e9e88",
+    "storage_bucket": "projeto-e9e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001513419112:android:efe68e0e495ee64c6c56dd",
+        "android_client_info": {
+          "package_name": "br.com.ciolfi.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001513419112-0jsjtns1fu8dir589cbibppaq81e6h05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPe0O1Xyuej9q62zo2JzBmYnZJNA2lhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001513419112-0jsjtns1fu8dir589cbibppaq81e6h05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
